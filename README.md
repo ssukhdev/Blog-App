@@ -10,7 +10,7 @@ To see the app in action, go to [https://serene-journey-89451.herokuapp.com/blog
 
 * Manage blog posts with basic functionalities:
 
-  * Create, edit and delete posts and comments
+  * Create, read, update and delete posts (CRUD)
 
   * Upload photos
 
