@@ -4,7 +4,7 @@ A basic Blog App created while learning RESTful routing principles
 
 ## Live Demo
 
-To see the app in action, go to [https://serene-journey-89451.herokuapp.com/blogs](https://serene-journey-89451.herokuapp.com/blogs)
+To see the app in action, go to [https://blog-app-197.herokuapp.com/blogs](https://blog-app-197.herokuapp.com/blogs)
 
 ## Features
 
